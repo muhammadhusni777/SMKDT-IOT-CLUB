@@ -20,11 +20,11 @@ BlynkTimer timer;
 WidgetLED led1(V1);
 
 //kode autentikasi dari blynk app. ini kode unik tiap hp akan berbeda beda
-char auth[] = "j84EQooPn3U3rFeFvQyReC4piye-E0FU";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 //masukkan wifi mana yang kamu mau connect
-char ssid[] = "Teras Java Dimsum";
-char pass[] = "siomayayam";
+char ssid[] = "xxxxxxxxxxxxxxxxxx";
+char pass[] = "xxxxxxxxxxxxxxxxxx";
 
 
 /*--------masukkan variabel yang dibutuhkan---------*/
